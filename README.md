@@ -24,6 +24,8 @@ Tag {
 - [x] 사용되는 함수 선언부 만들기
 
 ```
+  // 특정 할 일, 태그와 관련된 동작은 `One` 을 붙임
+  // 모든 할 일, 태그와 관련된 동작은 Todos, Tags와 같이 복수형으로 사용함
   - CREATE
     - createTodo
   - READ
@@ -40,7 +42,11 @@ Tag {
 ```
 
 - [x] JSDoc 활용해 문서화
-- [ ] github pages 활용해 정적 페이지 배포
+  - 보일러플레이트에 있던 src/index.js 참고하여 작성
+  - `@param` 로 함수 파라미터 정의, 옵셔널인 경우 `@param {number} [order]` 처럼 `[]` 로 감싼다
+  - `@returns` 로 함수 리턴값 정의
+- [x] github page 활용해 정적 페이지 배포
+  - [링크](https://jiyeon2.github.io/wanted-pre-onboarding-challenge-fe-2/)
 
 ## Usage
 
