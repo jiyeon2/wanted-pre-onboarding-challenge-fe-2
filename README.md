@@ -40,7 +40,8 @@ Tag {
 ```
 
 - [x] JSDoc 활용해 문서화
-- [ ] github pages 활용해 정적 페이지 배포
+- [x] github page 활용해 정적 페이지 배포
+  - [링크](https://jiyeon2.github.io/wanted-pre-onboarding-challenge-fe-2/)
 
 ## Usage
 
