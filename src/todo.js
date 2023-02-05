@@ -32,7 +32,7 @@ function createTodo(contents) {}
  * 특정 할 일 조회 함수
  * ID를 기반으로 특정 할 일을 조회할 수 있다.
  * @param {number} [id] 조회할 특정 할 일의 id
- * @returns {(Todo[] | Todo)} 특정 id 가진 할 일을 반환한다
+ * @returns {Todo} 특정 id 가진 할 일을 반환한다
  */
 function readOneTodo(id) {}
 
